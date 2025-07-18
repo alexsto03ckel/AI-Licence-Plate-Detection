@@ -9,9 +9,9 @@ This project implements an automated toll monitoring system using computer visio
 ✅ Helmet Detection for motorcycles (safety enforcement)
 ✅ Vehicle Type Recognition (car, motorcycle, etc.)
 ✅ RFID Match Validation
-✅ Real-Time Monitoring Dashboard (as seen below)
+✅ Real-Time Monitoring Dashboard using FastAPI and Streamlit
 ✅ Discount Eligibility Rules
-✅ Integration with MongoDB or SQL backend
+✅ Integration with MongoDB 
 ✅ Exportable logs for auditing
 
 ---
