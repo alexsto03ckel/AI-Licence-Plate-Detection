@@ -1,0 +1,5 @@
+[
+  {"key": "cvluluaduanansrfid", "rol": "rfid", "activo": true},
+  {"key": "cvluluaduananschapa", "rol": "chapa", "activo": true},
+  {"key": "cvluluaduananscasco", "rol": "casco", "activo": true}
+]
