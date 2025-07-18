@@ -1,10 +1,10 @@
-# AI License Plate Detection for Toll Stations 🚗🎥  
+# AI License Plate Detection for Toll Stations 
 
 This project is a **computer vision system** designed to **recognize vehicle license plates** using **AI and deep learning**. It leverages **YOLO (You Only Look Once) v8** for object detection and extraction of text from license plates.
 
 ---
 
-## 🚀 Features  
+##  Features  
 ✅ Automatic License Plate Recognition (ALPR)  
 ✅ Real-time processing using OpenCV & YOLO  
 ✅ Integration with cloud services (optional) for scalability  
@@ -12,20 +12,20 @@ This project is a **computer vision system** designed to **recognize vehicle lic
 
 ---
 
-## 📂 Dataset  
+##  Dataset  
 The dataset used for training and testing was sourced from **[Roboflow](https://roboflow.com/)**.  
 
 🔗 **Download the dataset to detect the plate here:** [Your Dataset Link](https://universe.roboflow.com/eyantra-twpmn/license-plate-detection-g15hx/dataset/1)  
 🔗 **Download the dataset to read the plate here:** [Your Dataset Link](https://universe.roboflow.com/ev-dshfb/license-plate-w8chc)  
 
-### 🔧 How to Use the Dataset  
+###  How to Use the Dataset  
 1. **Download** the dataset from Roboflow.  
 2. **Extract** the files into the `data/` folder.  
 
 
-## 🧪 Test case
+##  Test case
 The notebooks files contains examples of execution where the model could be tested.
 
 
-## ⚡ Results
+##  Results
 The results folder contains the results of the trained model.
