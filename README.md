@@ -11,8 +11,7 @@ This project implements an automated toll monitoring system using computer visio
 ✅ RFID Match Validation
 ✅ Real-Time Monitoring Dashboard using FastAPI and Streamlit
 ✅ Discount Eligibility Rules
-✅ Integration with MongoDB 
-✅ Exportable logs for auditing
+✅ Integration with MongoDB for detected incidents. 
 
 ---
 
